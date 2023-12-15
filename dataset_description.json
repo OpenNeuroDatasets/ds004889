@@ -8,5 +8,6 @@
     "BIDSVersion": "1.6.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds004889.v1.0.0",
     "License": "CC0",
-    "Acknowledgements": "a"
+    "Acknowledgements": "a",
+    "Funding": []
 }
