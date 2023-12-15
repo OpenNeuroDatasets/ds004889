@@ -1,0 +1,5 @@
+This project consists of deidentified MRI data from a large sample of acute ischemic stroke.
+
+This dataset includes multiple structural modalities including T1 and FLAIR sequences. 
+
+We also include DWI images that clearly show the location of lesions. Separate lesion map files are included for each participant with a visible lesion. These lesions were manually drawn and represent the gold-standard input for machine learning models of lesion segmentation in acute ischemic stroke. 
