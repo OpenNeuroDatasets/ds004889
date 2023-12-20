@@ -1,0 +1,10 @@
+{
+    "Name": "Stroke Outcome Optimization Project (SOOP)",
+    "Authors": [
+        "Chris Rorden",
+        "John Absher"
+    ],
+    "BIDSVersion": "1.6.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004889.v1.0.0",
+    "License": "CC0"
+}

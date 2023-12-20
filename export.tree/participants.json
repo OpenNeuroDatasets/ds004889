@@ -1,0 +1,50 @@
+{
+   "sex":{
+      "Description":"gender of the participant as reported by the participant",
+      "Levels":{
+         "F":"female",
+         "M":"male"
+      }
+   },
+   "age":{
+      "Description":"age in years at time of scan, clamped to 89",
+      "Units":"years"
+   },
+   "race":{
+      "Description":"race and ethnicity code from electronic health records",
+      "Levels":{
+         "b":"Black or African American",
+         "w":"White"
+      }
+   },
+   "acuteischaemicstroke":{
+      "Description":"Was an acute ischemic stroke diagnosed at admission",
+      "Levels":{
+         "0":"Not acute ischemic stroke",
+         "1":"Acute ischemic stroke"
+      }
+   },
+   "priorstroke":{
+      "Description":"Evidence of prior stroke",
+      "Levels":{
+         "0":"No chronic stroke",
+         "1":"Previous chronic stroke"
+      }
+   },
+   "lesion_size_cc":{
+      "Description":"Volume of (combined acute and chronic) stroke.",
+      "Units":"cubic centimeters"
+   },
+   "bmi":{
+      "Description":"Body mass index.",
+      "Units":"score"
+   },
+   "nihss":{
+      "Description":"NIH Stroke Score",
+      "Units":"score"
+   },
+   "gs_rankin_6isdeath":{
+      "Description":"Rankin score at discharge",
+      "Units":"score"
+   }
+}
